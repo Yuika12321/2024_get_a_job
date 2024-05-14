@@ -1,0 +1,294 @@
+@charset "UTF-8";
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+}
+
+body{
+    min-width: 1340px;
+    height: 1170px;
+    background-color: #fff;
+    color: #333;
+}
+
+a{
+    display: block;
+    color: #333;
+    text-decoration: none;
+}
+
+.top{
+    width: 1340px;
+    height: 100px;
+}
+
+.logo{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: cornflowerblue;
+    position: relative;
+}
+
+.logo img{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+}
+
+.menu{
+    width: 1140px;
+    height: 100px;
+    float: left;
+    position: relative;
+}
+
+.main{
+    position: absolute;
+    float: right;
+    display: flex;
+    top: 60px;
+    right: 20px;
+}
+
+.main>li>a{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(147, 147, 252);
+    line-height: 40px;
+    text-align: center;
+}
+
+.sub>li>a{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(147, 147, 252);
+    line-height: 40px;
+    text-align: center;
+}
+
+.sub{
+    position: absolute;
+    display: none;
+    z-index: 2;
+}
+
+.main>li:hover>a{
+    background-color: rgb(82, 82, 126);
+    color: white;
+}
+
+.sub>li:hover>a{
+    background-color: rgb(82, 82, 126);
+    color: white;
+}
+
+.imgs{
+    width: 100%;
+    height: 350px;
+    position: relative;
+}
+
+.imgs img{
+    width: 100%;
+    height: 350px;
+}
+
+.imgs li{
+    position: absolute;
+    width: 100%;
+    height: 350px;
+}
+
+.con{
+    width: 1340px;
+    height: 500px;
+    position: relative;
+}
+
+.sc{
+    width: 1340px;
+    height: 100px;
+    position: absolute;
+    top: -100px;
+    background-color: aqua;
+}
+
+.sc img{
+    width: 250px;
+    height: 80px;
+    float: left;
+    margin: 10px 9px;
+}
+
+.banner{
+    width: 1340px;
+    height: 200px;
+    position: relative;
+}
+
+.baimg img{
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    top: 25px;
+    left: 40px;
+}
+
+.btxt{
+    position: absolute;
+    width: 700px;
+    height: 150px;
+    left: 360px;
+    top: 25px;
+}
+
+.next img{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    top: 25px;
+    left: 1100px;
+}
+
+.nogal{
+    width: 1340px;
+    height: 300px;
+    position: relative;
+    background-color: blanchedalmond;
+}
+
+#tab{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    top: 20px;
+    left: 30px;
+    background-color: antiquewhite;
+}
+
+#tab2{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    top: 20px;
+    left: 130px;
+    background-color: antiquewhite;
+}
+
+#tab:hover>a,
+#tab2:hover>a {
+    background-color: #868686;
+    color: white;
+}
+
+.notxt{
+    float: right;
+}
+
+.nogal ul{
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    top: 80px;
+    left: 20px;
+}
+
+.notice li{
+    width: 600px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.gal{
+    display: none;
+}
+
+.gal li {
+    float: left;
+    margin: 25px 16px;
+}
+
+.gal img {
+    width: 100px;
+    height: 100px;
+}
+
+.bottom{
+    width: 1340px;
+    height: 120px;
+}
+
+.logo2{
+    width: 200px;
+    height: 120px;
+    float: left;
+    background-color: cornflowerblue;
+    position: relative;
+}
+
+.logo2 img{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 10px;
+}
+
+.bottom_right{
+    width: 1140px;
+    height: 100px;
+    float: left;
+}
+
+.menu2{
+    width: 1140px;
+    height: 60px;
+    background-color: gray;
+}
+
+.copy{
+    width: 1140px;
+    height: 60px;
+    background-color: gainsboro;
+}
+
+.popup{
+    position: absolute;
+    top: 300px;
+    left: 870px;
+    width: 800px;
+    height: 600px;
+    background-color: powderblue;
+    z-index: 5;
+    display: none;
+}
+
+.pt{
+    width: 800px;
+    height: 100px;
+}
+
+.pb{
+    width: 800px;
+    height: 400px;
+}
+
+.pbt{
+    width: 800px;
+    height: 100px;
+    position: relative;
+}
+
+button{
+    width: 100px;
+    height: 80px;
+    position: absolute;
+    right: 30px;
+    bottom: 10px;
+}
