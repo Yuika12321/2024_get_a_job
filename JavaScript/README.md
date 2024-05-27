@@ -1,4 +1,4 @@
-01 - Drum Kit
+[01 - Drum Kit](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/01%20-%20Drum%20Kit)
 
 02 - Clock
 
