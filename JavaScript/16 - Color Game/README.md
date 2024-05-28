@@ -18,7 +18,3 @@
 <p>만약 잘못 눌러 실패하였을 땐</p>
 
 ![image](https://github.com/Yuika12321/2024_get_a_job/assets/131143940/fd1faf30-7733-43c1-8f5f-be81227cb52f)
-
-<p>레벨에 따른 실패 화면</p>
-
-![image](https://github.com/Yuika12321/2024_get_a_job/assets/131143940/b9c9a26b-3005-4dcc-90d1-b7f4ce334128)
