@@ -27,3 +27,9 @@
 [14 - dark-mode-toggle](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/14%20-%20dark-mode-toggle)
 
 [15 - Dice Roll Simulator](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/15%20-%20Dice%20Roll%20Simulator)
+
+[16 - Color Game](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/16%20-%20Color%20Game)
+
+[17 - Dice Rolle](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/17%20-%20Dice%20Rolle)
+
+[18 - Color Picker](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/18%20-%20Color%20Picker)
