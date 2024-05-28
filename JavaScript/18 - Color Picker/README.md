@@ -1,4 +1,4 @@
-<h1>16 - Color Game</h1>
+<h1>18 - Color Picker</h1>
 
 <h3>JS를 이용한 색 선택해서 HEX코드값, RGB코드값, HSL코드값을 얻을 수 있는 프로그램 !</h3>
 
