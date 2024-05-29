@@ -38,3 +38,9 @@
 [17 - Dice Rolle](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/17%20-%20Dice%20Rolle)
 
 [18 - Color Picker](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/18%20-%20Color%20Picker)
+
+[19 - progress step](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/19%20-%20progress%20step)
+
+[20 - note app](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/20%20-%20note%20app)
+
+[21 - live user filter](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/21%20-%20live%20user%20filter)
