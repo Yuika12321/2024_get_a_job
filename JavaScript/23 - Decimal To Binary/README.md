@@ -1,4 +1,4 @@
-<h1>21 - live user filter</h1>
+<h1>23 - Decimal To Binary</h1>
 
 <h3>Java Script를 이용하여 10진수를 2진수로 변환해주는 프로그램</h3>
 
