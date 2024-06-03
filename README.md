@@ -49,6 +49,4 @@
 
 [23 - Decimal To Binary](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/23%20-%20Decimal%20To%20Binary)
 
-[23 - Decimal To Binary](https://github.com/Yuika12321/2024_get_a_job/blob/main/JavaScript/23%20-%20Decimal%20To%20Binary/README.md)
-
 [24 - Tic Tac Toe](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/24%20-%20Tic%20Tac%20Toe)
