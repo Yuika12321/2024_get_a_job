@@ -44,3 +44,10 @@
 [20 - note app](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/20%20-%20note%20app)
 
 [21 - live user filter](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/21%20-%20live%20user%20filter)
+
+[22 - Pop the Balloons](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/22%20-%20Pop%20the%20Balloons)
+
+[23 - Decimal To Binary](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/23%20-%20Decimal%20To%20Binary)
+[23 - Decimal To Binary](https://github.com/Yuika12321/2024_get_a_job/blob/main/JavaScript/23%20-%20Decimal%20To%20Binary/README.md)
+
+[24 - Tic Tac Toe](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/24%20-%20Tic%20Tac%20Toe)
