@@ -1,6 +1,8 @@
 # 2024_get_a_job
 2024_get_a_job class 31115
 
+---
+
 <h2>JavaScript</h2>
 
 [01 - Drum Kit](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/01%20-%20Drum%20Kit)
