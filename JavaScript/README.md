@@ -1,1 +1,1 @@
-<h1>Many Java Script Project</h1>
+<h1>Many JavaScript Project</h1>
