@@ -77,4 +77,6 @@
 
 [36 - Simple Form Validation](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/36%20-%20Simple%20Form%20Validation)
 
+[37 - Lorem Ipsum Generate](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/37%20-%20Lorem%20Ipsum%20Generate)
+
 ---
