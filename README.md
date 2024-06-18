@@ -71,4 +71,10 @@
 
 [33 - Memory Matching Game](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/33%20-%20Memory%20Matching%20Game)
 
+[34 - Music Player](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/34%20-%20Music%20Player)
+
+[35 - Key Code](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/35%20-%20Key%20Code)
+
+[36 - Simple Form Validation](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/36%20-%20Simple%20Form%20Validation)
+
 ---
