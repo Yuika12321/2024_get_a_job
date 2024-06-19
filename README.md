@@ -79,4 +79,6 @@
 
 [37 - Lorem Ipsum Generate](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/37%20-%20Lorem%20Ipsum%20Generate)
 
+[38 - RPS Game](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/38%20-%20RPS%20Game)
+
 ---
