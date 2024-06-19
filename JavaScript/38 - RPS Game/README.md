@@ -6,7 +6,9 @@
 
 ![image](https://github.com/Yuika12321/2024_get_a_job/assets/131143940/d457ae26-702e-4702-aca3-924150932da2)
 <p>기본 화면</p>
----
+  
+  ---
+
 <list>
   
 ![image](https://github.com/Yuika12321/2024_get_a_job/assets/131143940/4a7d4168-6fb5-4a76-9e3a-ba4a62106ceb) <p>나(사람)이 이겼을 때</p>
