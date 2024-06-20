@@ -81,4 +81,6 @@
 
 [38 - RPS Game](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/38%20-%20RPS%20Game)
 
+[39 - Snake Game](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/39%20-%20Snake%20Game)
+
 ---
