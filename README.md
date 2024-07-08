@@ -83,4 +83,10 @@
 
 [39 - Snake Game](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/39%20-%20Snake%20Game)
 
+[40 - Age Calculator](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/40%20-%20Age%20Calculator)
+
+[41 - Gradient Generator](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/41%20-%20Gradient%20Generator)
+
+[42 - Sorting Visualizer](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/42%20-%20Sorting%20Visualizer)
+
 ---
