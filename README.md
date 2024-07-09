@@ -4,10 +4,8 @@
 ---
 
 <details>
-  <summary>JavaScript</summary>
+  <summary><h1>JavaScript</h1></summary>
   
-
-
 [01 - Drum Kit](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/01%20-%20Drum%20Kit)
 
 [02 - Clock](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/02%20-%20Clock)
@@ -91,7 +89,7 @@
 [41 - Gradient Generator](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/41%20-%20Gradient%20Generator)
 
 [42 - Sorting Visualizer](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/42%20-%20Sorting%20Visualizer)
-
+ 
 </details>
 
 ---
