@@ -93,4 +93,5 @@
 [42 - Sorting Visualizer](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/42%20-%20Sorting%20Visualizer)
 
 </details>
+
 ---
