@@ -3,7 +3,10 @@
 
 ---
 
-<h2>JavaScript</h2>
+<details>
+  <summary>JavaScript</summary>
+  
+
 
 [01 - Drum Kit](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/01%20-%20Drum%20Kit)
 
@@ -89,4 +92,5 @@
 
 [42 - Sorting Visualizer](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/42%20-%20Sorting%20Visualizer)
 
+</details>
 ---
