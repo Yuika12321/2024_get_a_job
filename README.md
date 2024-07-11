@@ -89,6 +89,10 @@
 [41 - Gradient Generator](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/41%20-%20Gradient%20Generator)
 
 [42 - Sorting Visualizer](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/42%20-%20Sorting%20Visualizer)
+
+[43 - Block Runner](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/43%20-%20Block%20Runner)
+
+[44 - Notes Taking App](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/44%20-%20Notes%20Taking%20App)
  
 </details>
 
