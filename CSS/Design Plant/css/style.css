@@ -41,12 +41,12 @@ body {
     filter: brightness(.65);
 }
 
-/* .folha-22 {
+.folha-22 {
     position: absolute;
     transform: scale(0.9) rotate(-45deg) translate(120%, 105%);
     filter: brightness(.9);
     z-index: -1;
-} */
+}
 
 .folha-3 {
     position: absolute;
