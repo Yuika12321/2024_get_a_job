@@ -53,7 +53,7 @@ function letstart() {
         if (timming == 0) {
             console.log('End');
             clearInterval(stopfun);
-            timerdis.classList.add(hidden);
+            timerdis.classList.add('hidden');
             count = 0;
             bug = 1;
             SectionElement.innerHTML = '';
