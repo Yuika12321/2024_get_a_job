@@ -93,6 +93,10 @@
 [43 - Block Runner](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/43%20-%20Block%20Runner)
 
 [44 - Notes Taking App](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/44%20-%20Notes%20Taking%20App)
+
+[45 - Typing Platform](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/45%20-%20Typing%20Platform)
+
+[46 - Navigation Nenu Bar](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/46%20-%20Navigation%20Nenu%20Bar)
  
 </details>
 
@@ -101,7 +105,23 @@
 <details>
   <summary>CSS</summary>
   
+[Bear](https://github.com/Yuika12321/2024_get_a_job/tree/main/CSS/Bear)
+
+[Captain America](https://github.com/Yuika12321/2024_get_a_job/tree/main/CSS/Captain%20America)
+
+[Carro](https://github.com/Yuika12321/2024_get_a_job/tree/main/CSS/Carro)
+
+[Design Plant](https://github.com/Yuika12321/2024_get_a_job/tree/main/CSS/Design%20Plant)
+
+[Emoji](https://github.com/Yuika12321/2024_get_a_job/tree/main/CSS/Emoji)
+
+[Ghost](https://github.com/Yuika12321/2024_get_a_job/tree/main/CSS/Ghost)
+
 [Single Div Popsicles](https://github.com/Yuika12321/2024_get_a_job/tree/main/CSS/Single%20Div%20Popsicles)
+
+[Working Fan](https://github.com/Yuika12321/2024_get_a_job/tree/main/CSS/Working%20Fan)
+
+[apple](https://github.com/Yuika12321/2024_get_a_job/tree/main/CSS/apple)
 
 [ryan](https://github.com/Yuika12321/2024_get_a_job/tree/main/CSS/ryan)
  
