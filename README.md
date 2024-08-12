@@ -96,7 +96,9 @@
 
 [45 - Typing Platform](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/45%20-%20Typing%20Platform)
 
-[46 - Navigation Nenu Bar](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/46%20-%20Navigation%20Nenu%20Bar)
+[46 - Navigation Menu Bar](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/46%20-%20Navigation%20Menu%20Bar)
+
+[47 - Movie Ap](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/47%20-%20Movie%20App)
  
 </details>
 
