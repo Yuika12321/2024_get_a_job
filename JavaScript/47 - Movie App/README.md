@@ -1,6 +1,6 @@
 <h1>47 - Movie App</h1>
 
-<h3>Java Script로 제작한 프로그램</h3>
+<h3>Java Script로 제작한 영화 박스오피스 프로그램</h3>
 
 <p></p>
 
