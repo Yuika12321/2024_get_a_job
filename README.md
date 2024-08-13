@@ -98,7 +98,9 @@
 
 [46 - Navigation Menu Bar](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/46%20-%20Navigation%20Menu%20Bar)
 
-[47 - Movie Ap](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/47%20-%20Movie%20App)
+[47 - Movie App](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/47%20-%20Movie%20App)
+
+[48 - Quiz App](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript/48%20-%20Quiz%20App)
  
 </details>
 
