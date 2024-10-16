@@ -1,6 +1,6 @@
 <h1>46 - Navigation Menu Bar</h1>
 
-<h3>Java Script로 제작한 네이게이션 바</h3>
+<h3>Java Script로 제작한 네비게이션 바</h3>
 
 <p></p>
 
